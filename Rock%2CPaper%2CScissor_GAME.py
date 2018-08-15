@@ -13,7 +13,7 @@ def A():
 def game():
     
     You = input("Enter your word: ")
-    A = ['rock','paper','paper']
+    A = ['rock','paper','scissor']
     Harshil = A[randint(0,2)]
     print("Harshil chooses: ",Harshil)
 
